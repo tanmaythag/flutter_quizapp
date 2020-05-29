@@ -1,2 +1,4 @@
-# flutter_quizapp
-a simple  quiz app .
+# flutterquizzler
+
+a small quiz app. 
+
